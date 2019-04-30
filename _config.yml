@@ -1,11 +1,11 @@
 # Site settings
 title: Think different.
-SEOTitle: Clark.的博客
+SEOTitle: Dreamboo.的博客
 header-img: img/post-bg-desk.jpg
-email: 15702455610@163.com
+email: guoyaoleigg@163.com
 description: "Think different."
-keyword: "Clark.的博客,web前端工程师"
-url: "http://fanliang8023.github.io"          # your host, for absolute URL
+keyword: "Dreamboo.的博客,Java工程师"
+url: "http://guoyaoleigg.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "" # you code repository
 
@@ -19,9 +19,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     ke-fou-yizhan-9
-github_username:    fanliang8023
-facebook_username:  clark.
+#zhihu_username:     ke-fou-yizhan-9
+github_username:    guoyaoleigg
+#facebook_username:  clark.
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 62b56b9987e7155a22d9                            #生成的clientID
-  clientSecret: 6600fe7dc604e7d5a4cae450d2efcaab58b4c6dc    #生成的clientSecret
-  repo: fanliang8023.github.io    #仓库名称
-  owner: fanliang8023    #github用户名
-  admin: fanliang8023
+  clientID: 960babe8dd9ec6dc977c                            #生成的clientID
+  clientSecret: c85c4168c1cb5b79e391a2294b2916b661204f3e    #生成的clientSecret
+  repo: guoyaoleigg.github.io    #仓库名称
+  owner: guoyaoleigg    #github用户名
+  admin: guoyaoleigg
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 1c16318956c1fa619ac1db660abcf092
+ba_track_id: 076c642f6987a6b93cb80759b1729a6b
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
 {
-  title: "Guo Fool's blog",
-  href: "https://guoyaoleigg.github.io/"
+  title: "Fan Fool's blog",
+  href: "https://fanliang8023.github.io/"
 },
 {
   title: "知乎·",
