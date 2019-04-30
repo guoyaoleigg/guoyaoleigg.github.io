@@ -18,9 +18,9 @@ header-img: "img/post-bg-rwd.jpg"
     <blockquote><p>Different day.<br>
     每天都是新的一天</p></blockquote>
 
-    <p>Hey，我是<strong>Clark.</strong>，一只web前端程序猿，现在北京工作。</p>
+    <p>Hey，我是<strong>Dreamboo</strong>，一只Java程序猿，现在北京工作。</p>
 
-    <p>工作、学习之余，我还是一个健身爱好者.</p>
+    <p>工作、学习之余，我还是一个 <strong>玩</strong> 爱好者.</p>
 
     <p></p>
     
@@ -69,7 +69,7 @@ header-img: "img/post-bg-rwd.jpg"
     function _render(){
         var _hash = window.location.hash;
         // en
-        if(_hash == "#en"){
+        if(_hash === "#en"){
             $select.selectedIndex = 1;
             $en.style.display = "block";
             $zh.style.display = "none";
@@ -84,7 +84,7 @@ header-img: "img/post-bg-rwd.jpg"
 
     // handle select change
     function onLanChange(index){
-        if(index == 0){
+        if(index === 0){
             window.location.hash = "#zh"
         }else{
             window.location.hash = "#en"
@@ -110,7 +110,7 @@ header-img: "img/post-bg-rwd.jpg"
     repo: '{{site.gitalk.repo}}',
     owner: '{{site.gitalk.owner}}',
     admin: ['{{site.gitalk.admin}}'],
-    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
+    distractionFreeMode: '{{site.gitalk.distractionFreeMode}}',
     id: 'about',
     });
     gitalk.render('gitalk-container');
