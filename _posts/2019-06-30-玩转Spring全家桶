@@ -1,0 +1,37 @@
+---
+
+title: 玩转Spring全家桶
+date: 2019-06-30 00:44:54
+tags: 技术分享 
+
+---
+### 1.如何快速的获取我的第一个springBoot应用程序
+现在无论是在eclipse或者idea中都可以快速通过勾选的方式创建自己的一个简单的springboot程序。本质上和访问
+[https://start.spring.io/](https://start.spring.io/)
+生成的项目是一样的
+### 2.使用idea打开项目
+使用idea打开生成的项目，springBoot的项目入口是一个带有@SpringBootApplication标签类的main方法
+**@RestController**：注解相当于@ResponseBody ＋ @Controller合在一起的作用。
+**@ResponseBody**:如果需要返回JSON，XML或自定义mediaType内容到页面，则需要在对应的方法上加上@ResponseBody注解。
+SpringBoot基本上会帮助我们自动完成所有的基础配置。这里直接写一个RequestMapping
+```java
+@SpringBootApplication
+@RestController
+public class HelloSpringApplication {   
+   public static void main(String[] args) { 
+       SpringApplication.run(HelloSpringApplication.class, args);   
+    }   
+
+    @RequestMapping("/hello")   
+    public String hello(){       
+      return "Hello Spring";   
+    }
+ }
+```
+在idea中打开一个 terminal，可以简单访问一下hello，因为我们在创建项目时添加了actuator模块，可以通过actuator的健康检查查看项目的状态（up代表没有问题，down或者失败代表有问题）
+```shell
+curl http://localhost:8080/hello
+Hello Spring
+curl http://localhost:8080/actuator/health
+{"status":"UP"}
+```
