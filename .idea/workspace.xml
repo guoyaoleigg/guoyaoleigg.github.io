@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f107388f-5e98-4d79-be53-ed94ca5f7c28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -70,18 +70,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="2527">
               <caret line="133" column="45" selection-start-line="133" selection-start-column="45" selection-end-line="133" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-06-30-在Win10系统中找到被占用的端口进程">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-30-Win10端口被占用.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="57">
-                <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <first_editor relative-caret-position="380">
+                <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -92,8 +92,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="209">
-                <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <first_editor relative-caret-position="38">
+                <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -131,15 +131,16 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$USER_HOME$/Desktop/test.html" />
-        <option value="$PROJECT_DIR$/_posts/2019-06-30-在Win10系统中找到被占用的端口进程" />
         <option value="$PROJECT_DIR$/_posts/2019-06-30-SpringBoot学习笔记" />
         <option value="$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶" />
+        <option value="$PROJECT_DIR$/_posts/2019-06-30-在Win10系统中找到被占用的端口进程" />
+        <option value="$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="156" />
-    <option name="y" value="176" />
+    <option name="x" value="155" />
+    <option name="y" value="175" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -149,6 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,7 +167,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +219,8 @@
       <workItem from="1560096415568" duration="411000" />
       <workItem from="1560097053578" duration="20000" />
       <workItem from="1560097138096" duration="128000" />
-      <workItem from="1561825345084" duration="1580000" />
+      <workItem from="1561825345084" duration="2018000" />
+      <workItem from="1561874947238" duration="625000" />
     </task>
     <task id="LOCAL-00001" summary="修改配置文件 _config.yml">
       <created>1556589040052</created>
@@ -353,11 +355,25 @@
       <option name="project" value="LOCAL" />
       <updated>1561828194290</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="增加博客 玩转Spring全家桶_04编写你的第一个springboot程序">
+      <created>1561828287747</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1561828287747</updated>
+    </task>
+    <task id="LOCAL-00021" summary="增加博客 Win10端口被占用">
+      <created>1561828490490</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1561828490490</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19433000" />
+    <option name="totallyTimeSpent" value="20496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -398,7 +414,8 @@
     <MESSAGE value="定制主题" />
     <MESSAGE value="增加博客 在Win10系统中找到被占用的端口进程" />
     <MESSAGE value="增加博客 玩转Spring全家桶_04编写你的第一个springboot程序" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加博客 玩转Spring全家桶_04编写你的第一个springboot程序" />
+    <MESSAGE value="增加博客 Win10端口被占用" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加博客 Win10端口被占用" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_posts/2015-08-25-HEXO搭建个人博客.md" />
@@ -511,7 +528,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="2527">
           <caret line="133" column="45" selection-start-line="133" selection-start-column="45" selection-end-line="133" selection-end-column="45" />
         </state>
       </provider>
@@ -524,11 +541,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-30-在Win10系统中找到被占用的端口进程">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-30-Win10端口被占用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <first_editor relative-caret-position="380">
+            <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
@@ -537,8 +554,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="209">
-            <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
