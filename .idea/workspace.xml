@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f107388f-5e98-4d79-be53-ed94ca5f7c28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-15-知识点小总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-15-知识点小总结.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tags.html">
           <provider selected="true" editor-type-id="text-editor" />
@@ -80,8 +71,20 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-06-30-Win10端口被占用.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="380">
-                <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <first_editor relative-caret-position="190">
+                <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="296">
+                <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -89,11 +92,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-05-15-知识点小总结.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <first_editor relative-caret-position="124">
+                <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -135,6 +138,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶" />
         <option value="$PROJECT_DIR$/_posts/2019-06-30-在Win10系统中找到被占用的端口进程" />
         <option value="$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-15-知识点小总结.md" />
       </list>
     </option>
   </component>
@@ -220,7 +224,8 @@
       <workItem from="1560097053578" duration="20000" />
       <workItem from="1560097138096" duration="128000" />
       <workItem from="1561825345084" duration="2018000" />
-      <workItem from="1561874947238" duration="625000" />
+      <workItem from="1561874947238" duration="2948000" />
+      <workItem from="1563281110074" duration="233000" />
     </task>
     <task id="LOCAL-00001" summary="修改配置文件 _config.yml">
       <created>1556589040052</created>
@@ -369,11 +374,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561828490490</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="增加博客 Win10端口被占用">
+      <created>1561880413982</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1561880413982</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20496000" />
+    <option name="totallyTimeSpent" value="23052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -533,6 +545,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-30-Win10端口被占用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-21-weblogic应用部署排坑总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -541,21 +563,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-30-Win10端口被占用.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="380">
-            <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <first_editor relative-caret-position="296">
+            <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-30-玩转Spring全家桶.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-15-知识点小总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <first_editor relative-caret-position="124">
+            <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
