@@ -103,9 +103,6 @@ friends: [
   href: "https://fanliang8023.github.io/"
 },
 {
-  title: "知乎·",
-  href: "http://zhihu.com"
-},{
   title: "简书·",
   href: "http://www.jianshu.com"
 },{
@@ -127,5 +124,8 @@ friends: [
 },{
   title: "Node",
   href: "https://nodejs.org/zh-cn/"
+},{
+  title: "菜鸟教程",
+  href: "https://www.runoob.com"
 }
 ]
